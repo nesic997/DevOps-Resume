@@ -1,0 +1,26 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+*.env
+.env.local
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
