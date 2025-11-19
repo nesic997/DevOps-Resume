@@ -1,0 +1,19 @@
+
+---
+
+### 1.3.3 LICENSE
+
+Purpose: Define how others can use, modify, and distribute your code.
+
+- Pick a license that matches your goals (e.g., MIT for maximum permissiveness).  
+- Replace placeholders (`<YEAR>`, `<AUTHOR>`) before committing.
+
+MIT License example:
+
+```text
+MIT License
+
+Copyright (c) 2025 Stevan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+[full text here]
